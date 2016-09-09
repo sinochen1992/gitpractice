@@ -5,5 +5,6 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("Hello World!")
-print("Geoff is teaching me how to use git")
+print("Date:Wednesday Sep 7 2016\
+\nHello World!\
+\nGeoff is teaching me how to use git")
